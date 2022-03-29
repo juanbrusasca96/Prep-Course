@@ -1,0 +1,4 @@
+for: bloque de codigo que puede repetirse n cantidad de veces
+&&: y logico, verdadero si todos los elementos de la comparacion son verdaderos
+||: o logico, verdadero si al menos un elemento de la comparacion es verdadero
+!: negacion, invierte el valor logico del elemento al que se aplique
