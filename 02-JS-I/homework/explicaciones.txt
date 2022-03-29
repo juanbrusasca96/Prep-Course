@@ -1,0 +1,5 @@
+variables: espacios que reservamos en memoria en los que podemos guardar distintos tipos de datos que luego podemos usar mas tarde.
+strings: cadena de caracteres que forman palabras, oraciones, etc.
+funciones: conjunto de instrucciones que podemos utilizar y llamar la cantidad de veces que sea necesario en nuestro codigo (sin tener que reescribir el codigo propio de la funcion). A veces pueden recibir argumentos que luego pueden utilizar. A veces tambien pueden retornar algun valor, otras veces no.
+declaraciones if: bloque de codigo que se ejecuta si y solo si se cumple cierta condicion (que nosotros querramos).
+valores booleanos: valores de verdadero o falso. Pueden ser el resultado de una comparacion entre dos numeros por ejemplo. 
