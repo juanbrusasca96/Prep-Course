@@ -1,0 +1,5 @@
+objetos:conjunto de propiedades (atributos) y funciones
+propiedades: caracteristicas de un objeto
+metodos: cosas que puede hacer un objeto
+bucle for in: manera de recorrer las propiedades de un objeto en un loop
+Notación de puntos vs notación de corchetes: maneras de llamar a las propiedades y metodos de un objeto desde cualquier parte del codigo
